@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays4", "Arrays4\Arrays4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOrnek", "ArrayOrnek\ArrayOrnek.csproj", "{5FFB1D30-7D73-4181-B9DD-58C25882644A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays5", "Arrays5\Arrays5.csproj", "{A7FA0D15-0638-400B-9BCE-0B84005D5872}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5FFB1D30-7D73-4181-B9DD-58C25882644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FFB1D30-7D73-4181-B9DD-58C25882644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FFB1D30-7D73-4181-B9DD-58C25882644A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FA0D15-0638-400B-9BCE-0B84005D5872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FA0D15-0638-400B-9BCE-0B84005D5872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FA0D15-0638-400B-9BCE-0B84005D5872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FA0D15-0638-400B-9BCE-0B84005D5872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -22,6 +22,7 @@ namespace Arrays4
 
             Console.WriteLine("********");
 
+
             // ekrana mevsimleri tersten yazdıralım...
             for (int i = mevsimler.Length - 1; i >= 0; i--)
                 Console.Write($"{mevsimler[i]}  ");

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays2", "Arrays2\Arrays2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays3", "Arrays3\Arrays3.csproj", "{E275D35D-B553-49C6-B7C6-E1E8B76C9DAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays4", "Arrays4\Arrays4.csproj", "{E8CD03B2-0C47-420C-BDC1-FE1200C326F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOrnek", "ArrayOrnek\ArrayOrnek.csproj", "{5FFB1D30-7D73-4181-B9DD-58C25882644A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E275D35D-B553-49C6-B7C6-E1E8B76C9DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E275D35D-B553-49C6-B7C6-E1E8B76C9DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E275D35D-B553-49C6-B7C6-E1E8B76C9DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8CD03B2-0C47-420C-BDC1-FE1200C326F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CD03B2-0C47-420C-BDC1-FE1200C326F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CD03B2-0C47-420C-BDC1-FE1200C326F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CD03B2-0C47-420C-BDC1-FE1200C326F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFB1D30-7D73-4181-B9DD-58C25882644A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFB1D30-7D73-4181-B9DD-58C25882644A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFB1D30-7D73-4181-B9DD-58C25882644A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFB1D30-7D73-4181-B9DD-58C25882644A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

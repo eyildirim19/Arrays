@@ -55,6 +55,28 @@ namespace Arrays2
                 Console.WriteLine(isim); // ismi ekrana yazdır.. 
             }
 
+            // dizinin en büyük elemanını bulma....
+            int enb = int.MinValue; // int'in minimum valuesu...
+            int enk = int.MaxValue; // int'in maximum valuesu...
+
+            foreach (int item in sayilar)
+            {
+                if (item > enb) // en büyüğü buldukk....
+                {
+                    enb = item;
+                }
+
+                if (item < enk)
+                {
+                    enk = item;
+                }
+            }
+
+            Console.WriteLine($"En küçüğümüz = {enk}");
+            Console.WriteLine($"En büyüğümüz = {enb}");
+
+
+
             Console.ReadKey();
         }
     }

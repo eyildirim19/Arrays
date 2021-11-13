@@ -75,8 +75,23 @@ namespace Arrays1
             Console.WriteLine(sayilar[4]);
 
 
-            Console.WriteLine($"En büyük sayımız = {enb}");
+            // bu işlemi döngü ile daha pratik yapabiliriz...
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(sayilar[i]);
+            }
 
+            // dizinin içerisindeki en büyük elemanı bulalım...
+            enb = 0; // enb'yi sıfıra çekiyoruz....
+            for (int i = 0; i < 5; i++)
+            {
+                if(sayilar[i] > enb)
+                {
+                    enb = sayilar[i];
+                }
+            }
+
+            Console.WriteLine($"En büyük sayımız = {enb}");
             Console.ReadKey();
         }
     }

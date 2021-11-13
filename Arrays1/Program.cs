@@ -67,6 +67,13 @@ namespace Arrays1
             // dizileri açmanın yolu döngülerden geçer...döngüler ile dizi içerisindeki elemanlara (for, while, dowhile ve foreach döngüsü ile erişebiliriz...
 
 
+            // dizinin elemanlarınını tamamını ekrana yazdıralım....
+            Console.WriteLine(sayilar[0]);
+            Console.WriteLine(sayilar[1]);
+            Console.WriteLine(sayilar[2]);
+            Console.WriteLine(sayilar[3]);
+            Console.WriteLine(sayilar[4]);
+
 
             Console.WriteLine($"En büyük sayımız = {enb}");
 

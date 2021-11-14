@@ -39,11 +39,13 @@ namespace Arrays9Final
 
 
 
-            /*******/
-            // kalan ve geçen öğrencileri ilgili diziye ekleyiniz.....
+            for (int i = 0; i < ortalamalar.Length; i++)
+            {
+                /*******/
+                // kalan ve geçen öğrencileri ilgili diziye ekleyiniz.....
+                /******/
+            }
 
-
-            /******/
 
 
             foreach (var item in kalanlar)

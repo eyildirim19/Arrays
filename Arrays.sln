@@ -3,17 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays1", "Arrays1\Arrays1.csproj", "{328724C2-D1BA-46FF-B9DF-E0255C3642BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays1", "Arrays1\Arrays1.csproj", "{328724C2-D1BA-46FF-B9DF-E0255C3642BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays2", "Arrays2\Arrays2.csproj", "{61B3799A-DC50-4B34-99BA-BE70E0CA0543}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays2", "Arrays2\Arrays2.csproj", "{61B3799A-DC50-4B34-99BA-BE70E0CA0543}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays3", "Arrays3\Arrays3.csproj", "{E275D35D-B553-49C6-B7C6-E1E8B76C9DAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays3", "Arrays3\Arrays3.csproj", "{E275D35D-B553-49C6-B7C6-E1E8B76C9DAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays4", "Arrays4\Arrays4.csproj", "{E8CD03B2-0C47-420C-BDC1-FE1200C326F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays4", "Arrays4\Arrays4.csproj", "{E8CD03B2-0C47-420C-BDC1-FE1200C326F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOrnek", "ArrayOrnek\ArrayOrnek.csproj", "{5FFB1D30-7D73-4181-B9DD-58C25882644A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOrnek", "ArrayOrnek\ArrayOrnek.csproj", "{5FFB1D30-7D73-4181-B9DD-58C25882644A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays5", "Arrays5\Arrays5.csproj", "{A7FA0D15-0638-400B-9BCE-0B84005D5872}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays5", "Arrays5\Arrays5.csproj", "{A7FA0D15-0638-400B-9BCE-0B84005D5872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays6", "Array6\Arrays6.csproj", "{71D91E17-ED9D-4C5D-B449-AAF36EA615DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays7", "Arrays7\Arrays7.csproj", "{C30C5203-4EBD-470B-A78E-3C43DEFFB4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays8", "Arrays8\Arrays8.csproj", "{0C7D6C84-4565-4CF0-88F0-665729D93C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays9Final", "Arrays9Final\Arrays9Final.csproj", "{197899F3-F8BE-4990-926F-120E9B9C3727}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{A7FA0D15-0638-400B-9BCE-0B84005D5872}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7FA0D15-0638-400B-9BCE-0B84005D5872}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7FA0D15-0638-400B-9BCE-0B84005D5872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D91E17-ED9D-4C5D-B449-AAF36EA615DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D91E17-ED9D-4C5D-B449-AAF36EA615DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D91E17-ED9D-4C5D-B449-AAF36EA615DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D91E17-ED9D-4C5D-B449-AAF36EA615DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30C5203-4EBD-470B-A78E-3C43DEFFB4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30C5203-4EBD-470B-A78E-3C43DEFFB4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30C5203-4EBD-470B-A78E-3C43DEFFB4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30C5203-4EBD-470B-A78E-3C43DEFFB4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7D6C84-4565-4CF0-88F0-665729D93C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7D6C84-4565-4CF0-88F0-665729D93C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7D6C84-4565-4CF0-88F0-665729D93C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7D6C84-4565-4CF0-88F0-665729D93C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197899F3-F8BE-4990-926F-120E9B9C3727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197899F3-F8BE-4990-926F-120E9B9C3727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197899F3-F8BE-4990-926F-120E9B9C3727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197899F3-F8BE-4990-926F-120E9B9C3727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

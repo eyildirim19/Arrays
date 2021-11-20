@@ -43,6 +43,18 @@ namespace Arrays9Final
             {
                 /*******/
                 // kalan ve geçen öğrencileri ilgili diziye ekleyiniz.....
+                // todo : kalan ve geçen öğrencileri ilgili diziye ekleyiniz....
+                if (ortalamalar[i] > genelOrtalama)
+                {
+                    Array.Resize(ref gecenler, gecenler.Length + 1);
+                    gecenler[gecenler.Length - 1] = ogrenciler[i] + " " + ortalamalar[i];
+                }
+                else
+                {
+                    Array.Resize(ref kalanlar, kalanlar.Length + 1);
+                    kalanlar[kalanlar.Length - 1] = ogrenciler[i] + " " + ortalamalar[i];
+                }
+
                 /******/
             }
 
@@ -56,6 +68,9 @@ namespace Arrays9Final
             foreach (var item in gecenler)
                 Console.WriteLine(item); // Furkan - 66
 
+
+
+            Console.ReadKey();
         }
     }
 }
